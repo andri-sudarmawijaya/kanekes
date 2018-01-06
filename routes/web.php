@@ -27,8 +27,11 @@ Route::get('/register', function () {
 Route::get('/login', function () {
     return view('pages.auth-page.login');
 >>>>>>> e8ba71dcc01b70ba51cb3acc9663662f06c8c522
+<<<<<<< HEAD
 });
 
 Route::get('/3-column-example', function () {
     return view('pages.3-column-example.index');
+=======
+>>>>>>> d3414e3c7974a315d2693de25ace91f33c27db0f
 });

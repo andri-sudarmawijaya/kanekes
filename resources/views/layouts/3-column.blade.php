@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html lang="{{ app()->getLocale() }}">
     <head>
@@ -25,3 +26,6 @@
         <script src="{{ asset('js/app.js') }}"></script>
     </body>
 </html>
+=======
+3-column.blade.php
+>>>>>>> d3414e3c7974a315d2693de25ace91f33c27db0f
